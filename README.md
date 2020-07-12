@@ -42,8 +42,6 @@ If you notice any errors in the code, please submit a github issue.
 ## License
 ### The project is licensed with an MIT License.
 
-![GitHub](https://img.shields.io/github/license/dvorakjt/employee-directory)
-
 
 ## About the Author
 
