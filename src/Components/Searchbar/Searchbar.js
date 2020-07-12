@@ -28,8 +28,8 @@ function Searchbar() {
                     <div className="col-md-2">
                         {/*This column contains the select element for filtering by Anime*/}
                         <label htmlFor="anime">Filter by "Department" (Anime):</label>
-                        <select className="form-control" id="anime" name="anime" ref={animeFilter} onChange={onChangeCb}>
-                            <option value="All" selected>All</option>
+                        <select className="form-control" defaultValue="All" id="anime" name="anime" ref={animeFilter} onChange={onChangeCb}>
+                            <option value="All">All</option>
                             <option value="Mob Psycho 100">Mob Psycho 100</option>
                             <option value="One Punch Man">One Punch Man</option>
                             <option value="Yu Yu Hakusho">Yu Yu Hakusho</option>
@@ -42,8 +42,8 @@ function Searchbar() {
                     <div className="col-md-2">
                         {/*This column contains the select element for filtering by Role*/}
                         <label htmlFor="role">Filter by Role:</label>
-                        <select className="form-control" id="role" name="role" ref={roleFilter} onChange={onChangeCb}>
-                            <option value="All" selected>All</option>
+                        <select className="form-control" defaultValue="All" id="role" name="role" ref={roleFilter} onChange={onChangeCb}>
+                            <option value="All">All</option>
                             <option value="Psychic">Psychic</option>
                             <option value="Student">Student</option>
                             <option value="Supervillain">Supervillain</option>
@@ -63,8 +63,8 @@ function Searchbar() {
                     <div className="col-md-2">
                         {/*This column contains the select element for filtering by Birthday*/}
                         <label htmlFor="birthday">Filter by Birthday:</label>
-                        <select className="form-control" id="birthday" name="birthday" ref={bdayFilter} onChange={onChangeCb}>
-                            <option value="All" selected>All</option>
+                        <select className="form-control" defaultValue="All" id="birthday" name="birthday" ref={bdayFilter} onChange={onChangeCb}>
+                            <option value="All">All</option>
                             <option value="January">January</option>
                             <option value="February">February</option>
                             <option value="March">March</option>
@@ -83,8 +83,8 @@ function Searchbar() {
                     <div className="col-md-2">
                         {/*This column contains the select element for filtering by Affiliation*/}
                         <label htmlFor="affiliation">Filter by "Branch" (Affiliation):</label>
-                        <select className="form-control" id="affiliation" name="affiliation" ref={affilFilter} onChange={onChangeCb}>
-                            <option value="All" selected>All</option>
+                        <select className="form-control" defaultValue="All" id="affiliation" name="affiliation" ref={affilFilter} onChange={onChangeCb}>
+                            <option value="All">All</option>
                             <option value="Good">Good</option>
                             <option value="Evil">Evil</option>
                             <option value="Neutral">Neutral</option>
@@ -93,8 +93,8 @@ function Searchbar() {
                     <div className="col-md-2">
                         {/*This column contains the select element for which category to search*/}
                         <label htmlFor="searchBy">Search By:</label>
-                        <select className="form-control" id="searchBy" name="searchBy" ref={searchCat} onChange={onChangeCb}>
-                            <option value="Name" selected>Name</option>
+                        <select className="form-control" defaultValue="Name" id="searchBy" name="searchBy" ref={searchCat} onChange={onChangeCb}>
+                            <option value="Name">Name</option>
                             <option value="Roles">Role</option>
                             <option value="Likes">Likes</option>
                             <option value="Dislikes">Dislikes</option>
