@@ -1,11 +1,10 @@
 import React from 'react';
 import TableRow from "../TableRow/TableRow.js";
 import './style.css';
-import * as data from '../../data/animeChars.json';
 
 function Table(props) {
-    const chars = data.default.characters;
-    console.log(chars);
+    //destructure the props and grab the chars array
+    const { chars } = props;
     return (
         <table>
             <thead>
