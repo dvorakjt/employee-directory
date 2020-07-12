@@ -19,7 +19,7 @@
             "anime": "Mob Psycho 100",
             "roles": "Psychic, Student",
             "affiliation": "Good",
-            "likes": "Tsubomi-chan",
+            "likes": "His friends, being kind, exercising, Tsubomi-chan",
             "dislikes": "Being summoned on short notice",
             "birthday": "May 12",
             "image": "https://vignette.wikia.nocookie.net/mob-psycho-100/images/f/f3/ShigeoKageyamaPortrait.png/revision/latest/scale-to-width-down/130?cb=20190305223259"
@@ -31,7 +31,7 @@
             "anime": "Mob Psycho 100",
             "roles": "Psychic, Supervillain, Boss of Claw, Criminal",
             "affiliation": "Evil (reformed)",
-            "likes": "Himself, World Domination",
+            "likes": "World Domination",
             "dislikes": "Bonds with others",
             "birthday": "December 7",
             "image": "https://vignette.wikia.nocookie.net/mob-psycho-100/images/1/11/Suzukisquareanime.png/revision/latest?cb=20191121171835"
@@ -44,9 +44,9 @@
             "roles": "Psychic, Superhero",
             "affiliation": "Good",
             "likes": "Defeating monsters, her sister Fubuki",
-            "dislikes": "Incompetence, Impertinen",
+            "dislikes": "Incompetence, Impertinence",
             "birthday": "Unknown",
-            "image": "https://vignette.wikia.nocookie.net/onepunchman/images/1/17/Tatsumaki_stops_spaceship_shells.gif/revision/latest/scale-to-width-down/250?cb=20200306041046"
+            "image": "https://onepunchman.store/wp-content/uploads/2019/05/ta2.jpg"
         },
         {
             "firstName": "Diavolo",
@@ -67,8 +67,8 @@
             "anime": "Yu Yu Hakusho",
             "roles": "Spirit Detective, Martial Artist, Student, Demon King",
             "affiliation": "Good",
-            "likes": "Fighting, Keiko Yukimura, Skipping School",
-            "dislikes": "Going to school, Fighting without honor",
+            "likes": "Fighting, Video Games, Being Lazy, Keiko Yukimura",
+            "dislikes": "School",
             "birthday": "March 26",
             "image": "https://vignette.wikia.nocookie.net/disneythehunchbackofnotredame/images/5/5e/295ff090b71ca278841c869d606b5ebc.jpg/revision/latest?cb=20200405010404"
         },
@@ -80,7 +80,7 @@
             "roles": "Thief (formerly), Demon, Plant-user, Student",
             "affiliation": "Good",
             "likes": "Plants, academics, caring for his mother",
-            "dislikes": "Elder Toguro, ",
+            "dislikes": "Dishonorable actions",
             "birthday": "December 29",
             "image": "https://vignette.wikia.nocookie.net/yuyuhakusho/images/f/f3/KuramaOfficial.png/revision/latest/window-crop/width/200/x-offset/0/y-offset/0/window-width/452/window-height/452?cb=20140127025833"
         },
@@ -89,10 +89,10 @@
             "lastName": "Minegishi",
             "alias": "Ultimate 5 Minegishi",
             "anime": "Mob Psycho 100",
-            "roles": "Psychic, Plant-user, Member of Claw, Florist",
+            "roles": "Psychic, Plant-user, Member of Claw (former), Florist",
             "affiliation": "Evil (reformed)",
             "likes": "Plants, the environment",
-            "dislikes": "Betrayal",
+            "dislikes": "Claw's treatment of his comrades",
             "birthday": "Unknown",
             "image": "https://vignette.wikia.nocookie.net/mob-psycho-100/images/7/75/Minecraft.png/revision/latest?cb=20191210184819"
         },
@@ -104,7 +104,7 @@
             "roles": "Professional Criminal, Thief",
             "affiliation": "Neutral",
             "likes": "Shopping, Dancing, Horseback riding, Attending social functions, Champagne",
-            "dislikes": "Losing her freedom",
+            "dislikes": "Boredom",
             "birthday": "June 7",
             "image": "https://vignette.wikia.nocookie.net/lupin/images/f/f7/Lupin03.jpg/revision/latest?cb=20140425232557"
         },
@@ -116,7 +116,7 @@
             "roles": "Psychic, Martial Artist, Sensei",
             "affiliation": "Good",
             "likes": "Playing video games",
-            "dislikes": "Toguro's decision to become a demon, Yusuke's laziness",
+            "dislikes": "Vanity, laziness",
             "birthday": "January 30",
             "image": "https://vignette.wikia.nocookie.net/yuyuhakusho/images/1/1f/Genkai.jpg/revision/latest?cb=20130622010332"
         },
@@ -127,10 +127,10 @@
             "anime": "Yu Yu Hakusho",
             "roles": "Student",
             "affiliation": "Good",
-            "likes": "Student Council, Foreign Art Films, Academics, Yusuke Urameshi",
-            "dislikes": "Yusuke's attitude towards school",
+            "likes": "School Activities, Foreign Art Films, Academics, Yusuke Urameshi",
+            "dislikes": "Fighting, Yusuke's attitude towards school",
             "birthday": "January 30",
-            "image": "https://vignette.wikia.nocookie.net/yuyuhakusho/images/b/b6/Keiko08.jpg/revision/latest?cb=20160919160729"
+            "image": "https://pbs.twimg.com/media/EOvHZ0ZW4AAlZ0L?format=jpg&name=360x360"
         },
         {
             "firstName": "Genos",
@@ -154,7 +154,7 @@
             "likes": "Bargain days at the supermarket",
             "dislikes": "Not having any opponent's who can match him, people making fun of his baldness",
             "birthday": "Unknown",
-            "image": "https://vignette.wikia.nocookie.net/onepunchman/images/9/9b/Saitama_regular_face.jpg/revision/latest?cb=20200316015620"
+            "image": "https://steamuserimages-a.akamaihd.net/ugc/314494866247087768/3DA6ADF15C7B3D61615BA5BB726DA6112BC8FFAC/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
         },
         {
             "firstName": "Arataka",
@@ -179,6 +179,54 @@
             "dislikes": "Interference from other government sections",
             "birthday": "Unknown",
             "image": "https://vignette.wikia.nocookie.net/ghostintheshell/images/0/0b/Motoko-Movie.jpg/revision/latest?cb=20100625042944&path-prefix=en"
+        },
+        {
+            "firstName": "Rohan",
+            "lastName": "Kishibe",
+            "alias": "",
+            "anime": "Jojo's Bizarre Adventures",
+            "roles": "Manga Artist, friend of Koichi, Stand-user",
+            "affiliation": "Neutral",
+            "likes": "Drawing Manga, Investigating the World, Interesting People",
+            "dislikes": "Uninteresting People",
+            "birthday": "Unknown",
+            "image": "https://steamuserimages-a.akamaihd.net/ugc/797618198563629107/BF3D91D26F5F4C883CC5583043145BBE4AFDBF44/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
+        },
+        {
+            "firstName": "Mamo",
+            "lastName": "N/A",
+            "alias": "Howard Lockwood",
+            "anime": "Lupin III",
+            "roles": "Supervillain",
+            "affiliation": "Evil",
+            "likes": "Cloning himself, art, philosophy, achieving perfection",
+            "dislikes": "Imperfection",
+            "birthday": "Unknown",
+            "image": "https://vignette.wikia.nocookie.net/lupin/images/6/6f/Mamo.png/revision/latest/scale-to-width-down/340?cb=20130405101150"
+        },
+        {
+            "firstName": "Mikoto",
+            "lastName": "Aiura",
+            "alias": "Miko-chan",
+            "anime": "The Disastrous Life of Saiki K.",
+            "roles": "Psychic, Student",
+            "affiliation": "Good",
+            "likes": "Helping people, accessories, being popular",
+            "dislikes": "Indifference",
+            "birthday": "September 7",
+            "image": "https://static.myfigurecollection.net/pics/encyclopedia/186156.jpg?rev=1571000658"
+        },
+        {
+            "firstName": "Daisuke",
+            "lastName": "Aramaki",
+            "alias": "Chief, Lt. Col. Aramaki",
+            "anime": "Ghost in the Shell",
+            "roles": "Chief of Section 9, Colonel, Soldier",
+            "affiliation": "Good",
+            "likes": "Section 9",
+            "dislikes": "Unknown",
+            "birthday": "Unknown",
+            "image": "https://vignette.wikia.nocookie.net/ghostintheshell/images/b/be/Aramaki95.jpg/revision/latest/zoom-crop/width/240/height/240?cb=20170213061136&path-prefix=en"
         }
     ]
 }
