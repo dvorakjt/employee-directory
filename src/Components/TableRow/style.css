@@ -1,0 +1,26 @@
+tbody tr {
+    border-left: 1px solid rgb(201, 201, 201);
+    border-right: 1px solid rgb(201, 201, 201);
+    
+}
+td {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+tbody td {
+    padding-left: 10px;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+}
+
+.topOfBox {
+    border-top: 1px solid rgb(201, 201, 201);
+}
+
+.bottomOfBox {
+    border-bottom: 1px solid rgb(201, 201, 201);
+}
